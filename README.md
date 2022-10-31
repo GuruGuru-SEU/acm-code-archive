@@ -1,6 +1,6 @@
 # GuruGuru\@SEU
 
-## 21-CCPC-威海
+## 2021-CCPC-威海
 
 *Virtual Participation, Rank 49, Silver.*
 
@@ -8,22 +8,30 @@
 
 [Board](https://board.xcpcio.com/ccpc/7th/weihai)
 
-## 21-CCPC-网络选拔赛
+## 2022-CCPC-网络选拔赛
 
 Rank 75.
 
 [Board](https://board.xcpcio.com/ccpc/8th/online-qualification)
 
-## 22-JSCPC
+## 2022-JSCPC
 
 Rank 26.
 
 [Board](https://board.xcpcio.com/provincial-contest/2022/jiangsu)
 
-## 22-SEUCPC
+## 2022-SEUCPC
 
 Rank 1.
 
 [Contest Page](https://oje.seucpc.club/contest/49)
 
 [Board](https://oje.seucpc.club/contest/49/ranklist)
+
+## 2022-CCPC-桂林
+
+Rank 43, Silver.
+
+[Contest Page](https://codeforces.com/gym/104008)
+
+[Board](https://board.xcpcio.com/ccpc/8th/guilin)
