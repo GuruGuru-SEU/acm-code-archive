@@ -59,12 +59,6 @@ int get_cnt(int hash) {
 long long ans[5000005];
 std::set<int> s[5000005];
 
-void print() {
-    for (int i = 1; i <= 14; ++i) {
-        std::cout << p[i] << ' ';
-    }
-}
-
 void work() {
     long long big_hash = get_hash();
     if (used[big_hash]) return;

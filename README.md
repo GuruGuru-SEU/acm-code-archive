@@ -35,3 +35,17 @@ Rank 43, Silver.
 [Contest Page](https://codeforces.com/gym/104008)
 
 [Board](https://board.xcpcio.com/ccpc/8th/guilin)
+
+## 2022-CCPC-威海
+
+Rank 66, Silver.
+
+[Contest Page](https://codeforces.com/gym/104023)
+
+[Board](https://board.xcpcio.com/ccpc/8th/weihai)
+
+## 2022-ICPC-合肥
+
+Rank 48, Silver.
+
+[Board](https://board.xcpcio.com/icpc/47th/hefei)
