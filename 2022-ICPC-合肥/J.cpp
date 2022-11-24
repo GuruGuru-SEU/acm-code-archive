@@ -63,7 +63,7 @@ int main() {
                 else
                     qc = c[i] - (gp - 2) * b;
                 if (tq >= 0 && tq + qc - b <= b && (q == -1 || std::max(tq + qc - b, 1ll) < q)) q = std::max(tq + qc - b, 1ll);
-                if (tq >= 0 && (q == -1 || std::max(qc - b, 1ll) < q)) q = std::max(qc - b, 1ll);
+                if (tp >= 0 && (q == -1 || std::max(qc - b, 1ll) < q)) q = std::max(qc - b, 1ll);
             }
             if (p < 0 && q < 0) is_ans = false;
         }
