@@ -1,19 +1,5 @@
 # GuruGuru\@SEU
 
-## 2021-CCPC-威海
-
-*Virtual Participation, Rank 49, Silver.*
-
-[Contest Page](https://codeforces.com/gym/103428)
-
-[Board](https://board.xcpcio.com/ccpc/7th/weihai)
-
-## 2022-CCPC-网络选拔赛
-
-Rank 75.
-
-[Board](https://board.xcpcio.com/ccpc/8th/online-qualification)
-
 ## 2022-JSCPC
 
 Rank 26.
@@ -27,6 +13,19 @@ Rank 1.
 [Contest Page](https://oje.seucpc.club/contest/49)
 
 [Board](https://oje.seucpc.club/contest/49/ranklist)
+
+
+## 2022-CCPC-网络选拔赛
+
+Rank 75.
+
+[Board](https://board.xcpcio.com/ccpc/8th/online-qualification)
+
+## 2022-ICPC-网络选拔赛2
+
+Rank 162.
+
+[Board](https://board.xcpcio.com/icpc/47th/online-qualification-2)
 
 ## 2022-CCPC-桂林
 
@@ -49,3 +48,11 @@ Rank 66, Silver.
 Rank 48, Silver.
 
 [Board](https://board.xcpcio.com/icpc/47th/hefei)
+
+## 2022-ICPC-杭州
+
+Rank 90, Sliver.
+
+[Contest Page](https://codeforces.com/gym/104090)
+
+[Board](https://board.xcpcio.com/icpc/47th/hangzhou)
